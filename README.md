@@ -1,0 +1,2 @@
+# WikipediaSearch
+Searches the Wiki.
